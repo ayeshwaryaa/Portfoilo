@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # portfolio-personalblog-
 Welcome to my portfolio! This README provides an overview of the structure and content of my personal portfolio website. My portfolio is organized into several sections to give you a comprehensive view of my background, skills, projects, and how to contact me.
@@ -35,3 +36,6 @@ The Contact Details page provides information on how to get in touch with me. Th
 
 How to Use:
 Navigate through the sections using the menu or navigation bar. Each section is designed to provide specific information about my professional journey, skills, and how to contact me. Feel free to explore and reach out if you have any questions or opportunities.
+=======
+# Portfoilo
+>>>>>>> 94716a54d5870bdbada0470e37c5d9a9e52865ad
